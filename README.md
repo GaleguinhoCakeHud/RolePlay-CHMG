@@ -1,2 +1,13 @@
 # RolePlay-CHMG
-Versão estável do mapa
+Mapa: MorelGamer
+NPCs: Chzin
+Kits: MorelGamer e Galeguinho
+
+Perfis na steam: 
+
+MorelGamer: http://steamcommunity.com/id/Morel-Gamer
+Chzin: http://steamcommunity.com/profiles/76561198147953608
+Galeguinho: http://steamcommunity.com/profiles/76561197995706966/
+
+Este repositório foi criado com a intenção de colocar uma versão estavel e backup. 
+Quer ajuda de como instalar? Peça para um dos desenvolvedores.
