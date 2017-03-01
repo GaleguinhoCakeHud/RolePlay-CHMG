@@ -1,4 +1,4 @@
-# RolePlay-CHMG
+# Servidor RolePlay-CHMG
 Mapa: MorelGamer
 
 NPCs: Chzin
