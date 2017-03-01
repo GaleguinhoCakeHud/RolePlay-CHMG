@@ -22,3 +22,6 @@ Temos 2 servidores no discord que você pode encontrar os desenvolvedores:
 1- https://discord.gg/zfQhd2s : Discord oficial do mapa
 
 2- https://discord.gg/u34Cnmh : GTF discord
+
+---------------------------
+Mapa na Workshop: http://steamcommunity.com/sharedfiles/filedetails/?id=825118802
