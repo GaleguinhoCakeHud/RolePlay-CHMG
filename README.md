@@ -1,8 +1,6 @@
 # Servidor RolePlay-CHMG
 Mapa: MorelGamer
 
-NPCs: Chzin
-
 Kits: MorelGamer e Galeguinho
 
 -------------------------
