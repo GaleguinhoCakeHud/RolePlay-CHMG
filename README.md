@@ -9,8 +9,6 @@ Perfis na steam:
 
 MorelGamer: http://steamcommunity.com/id/Morel-Gamer
 
-Chzin: http://steamcommunity.com/profiles/76561198147953608
-
 Galeguinho: http://steamcommunity.com/profiles/76561197995706966/
 
 ------------------------
